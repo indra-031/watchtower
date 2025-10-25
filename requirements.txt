@@ -1,0 +1,13 @@
+flask
+tldextract
+psycopg2
+pymongo
+tempfile
+requests
+
+sudo apt-get install libpq-dev
+
+shuffledns
+dnsx
+massdns
+subfinder

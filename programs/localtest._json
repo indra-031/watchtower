@@ -1,0 +1,9 @@
+{
+    "program_name": "localtest",
+    "scopes": [
+        "localtest.me"
+    ],
+    "ooscopes": [
+        "xanything.localtest.me"
+    ]
+}
